@@ -1,7 +1,8 @@
 # Tutorial Ideas
 
 -[ ] Mastering PalmOS
--[ ] Bonnie Rotten
--[ ] Riley Reid
--[ ] Lana Rhoades
+-[x] Bonnie Rotten
+-[x] Riley Reid
+-[x] Lana Rhoades
+-[ ] Blockchains with BASIC
 
